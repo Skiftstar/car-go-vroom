@@ -9,7 +9,7 @@ monitor_width = 1920
 # How far you need to travel for full steering
 # if this value is 1.0 you need to travel to the border of the monitor for full steering
 # if it is 0.5 you need to travel halfway to the border, etc
-monitor_range = 0.75
+monitor_range = 1.0
 polling_rate = 0.002 # in seconds
 reset_button = 'delete'
 accel_button = 'w'
